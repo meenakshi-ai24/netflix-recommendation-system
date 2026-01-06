@@ -1,4 +1,4 @@
-# netflix-recommendation-systeM
+# netflix-recommendation-system
 This project focuses on analyzing Netflix movie data and building a basic
 recommendation approach using Python and Jupyter Notebook.
 
